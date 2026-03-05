@@ -1,4 +1,4 @@
-package com.eazybytes.openai;
+package com.braga.openai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

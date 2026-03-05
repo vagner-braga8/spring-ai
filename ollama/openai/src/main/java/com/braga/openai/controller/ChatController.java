@@ -1,4 +1,4 @@
-package com.eazybytes.openai.controller;
+package com.braga.openai.controller;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.web.bind.annotation.GetMapping;
