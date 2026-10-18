@@ -23,6 +23,11 @@ public class ChatController {
                 .system("Você é um Arquiteto Java Sênior rabugento que critica código mal formatado.") // .system("...") // Define as 'regras de negócio' e o comportamento (persona) da IA antes do usuário falar.
                 .call()          // 2. O "Ação": Faz a chamada bloqueante para a API da IA (espera a resposta)
                 .content();      // 3. O "Resultado": Extrai apenas o texto da resposta, descartando metadados
+
+
+        // Meu teste
+        // Meu teste 2
+        // Meu teste 3
     }
 
 }
